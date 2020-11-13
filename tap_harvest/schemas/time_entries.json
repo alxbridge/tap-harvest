@@ -56,11 +56,9 @@
     },
     "started_time": {
       "type": ["null", "string"],
-      "format": "time"
     },
     "ended_time": {
       "type": ["null", "string"],
-      "format": "time"
     },
     "is_running": {
       "type": ["null", "boolean"]
